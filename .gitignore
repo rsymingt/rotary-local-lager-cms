@@ -1,0 +1,3 @@
+scripts/password_backups
+scripts/passwordHash.php
+events-app/node_modules/*
